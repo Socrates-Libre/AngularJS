@@ -1,5 +1,5 @@
-### AngularJS
+# AngularJS
 
 ## tutorial from grafikart YouTube
 
-# création d'une application en AngularJS
+### création d'une application en AngularJS
